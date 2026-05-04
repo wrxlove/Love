@@ -20,6 +20,7 @@
 
 <h3 align="center">моя аватарка ниже</h3>
 
+<img src="https://i.pinimg.com/originals/1f/cc/18/1fcc1849015907dfc7605500a087a09f.jpg" alt="Моё фото">
 
 
 
